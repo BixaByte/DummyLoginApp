@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "967848756860",
+    "firebase_url": "https://food-ordering-app-efbc9-default-rtdb.firebaseio.com",
+    "project_id": "food-ordering-app-efbc9",
+    "storage_bucket": "food-ordering-app-efbc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967848756860:android:2bb69543f1e433f406ebf9",
+        "android_client_info": {
+          "package_name": "co.proglabs.foodizm_customer_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967848756860-j1p7mbcukdeq913fh917c3tfgljdf4u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.proglabs.foodizm_customer_flutter",
+            "certificate_hash": "33683acb1592fea6b95f320559a83c623d822924"
+          }
+        },
+        {
+          "client_id": "967848756860-mrp0ii686ob226puhif8q4bj7jf2a9g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.proglabs.foodizm_customer_flutter",
+            "certificate_hash": "a52e5cbb2e769c3f0f989290c1244b816d2f36e5"
+          }
+        },
+        {
+          "client_id": "967848756860-nrb8dldeunth8ho7hhteqk0rhm62oqi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXKO55qqv12KRAP_rUA_oB42hKq7KGTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967848756860-nrb8dldeunth8ho7hhteqk0rhm62oqi5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967848756860-28sgp6q6g6i2nqhsif08rf46avudjbk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.proglabs.foodizmcustomerflutter",
+                "app_store_id": "363729560"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967848756860:android:b289346cdea568f806ebf9",
+        "android_client_info": {
+          "package_name": "co.proglabs.foodizm_driver_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967848756860-lri0f921101loss2j1hdcejtv3l4n3ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.proglabs.foodizm_driver_flutter",
+            "certificate_hash": "a52e5cbb2e769c3f0f989290c1244b816d2f36e5"
+          }
+        },
+        {
+          "client_id": "967848756860-nrb8dldeunth8ho7hhteqk0rhm62oqi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXKO55qqv12KRAP_rUA_oB42hKq7KGTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967848756860-nrb8dldeunth8ho7hhteqk0rhm62oqi5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967848756860-28sgp6q6g6i2nqhsif08rf46avudjbk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.proglabs.foodizmcustomerflutter",
+                "app_store_id": "363729560"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967848756860:android:783f440418be764506ebf9",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967848756860-nrb8dldeunth8ho7hhteqk0rhm62oqi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXKO55qqv12KRAP_rUA_oB42hKq7KGTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967848756860-nrb8dldeunth8ho7hhteqk0rhm62oqi5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967848756860-28sgp6q6g6i2nqhsif08rf46avudjbk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.proglabs.foodizmcustomerflutter",
+                "app_store_id": "363729560"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
